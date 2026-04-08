@@ -1,0 +1,2 @@
+# Notes App Backend — Render Deployment Config
+startCommand: gunicorn app:app
